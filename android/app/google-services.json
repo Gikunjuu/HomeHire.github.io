@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "662871113465",
+    "firebase_url": "https://projo-feb-default-rtdb.firebaseio.com",
+    "project_id": "projo-feb",
+    "storage_bucket": "projo-feb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662871113465:android:7539dc24217c6ca7472c28",
+        "android_client_info": {
+          "package_name": "com.example.hire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "662871113465-2t372os3hcggc93bb6nfe9ftj13bh8la.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIxeTZGfZoyUCCQpqMkySvz30iHAdH6eI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "662871113465-2t372os3hcggc93bb6nfe9ftj13bh8la.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
